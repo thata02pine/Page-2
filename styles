@@ -1,0 +1,53 @@
+bory{
+
+}
+   .fixed-header {
+     position: fixed;
+     width: 100%;
+     background-color: #000014;
+     color: #fff;
+     text-align: center;
+     font-family: 'Ubuntu', sans-serif;
+   }
+
+   nav li {
+    display: inline;
+    margin-right: 2rem;
+    font-size: 19px;  
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: 300ms linear 0s;
+}
+
+ a:hover {
+    font-size: 21px;
+    padding: 1%;
+    background-color: #202a51;
+    border-radius: 50px;
+
+}
+
+footer {
+    background-color: #000014;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header img {
+  width: 100px; 
+  height: auto;
+  vertical-align: middle;
+  padding: 0;
+}
+.color1 {color: #000014;}
+.color2 {color: #202a51;}
+.color3 {color: #51569c;}
+.color4 {color: #9189f2;}
+.color5 {color: #e2c0ff;}
